@@ -16,5 +16,5 @@ dentro do jogo, com componentes como o smart switch, temos a possibilidade de ab
 utilizando o celular.
 </p>
 <p align="center">
-<img src="https://i.imgur.com/ZOI7B0Z.png" width="850">
+<img src="https://i.imgur.com/ZOI7B0Z.png" width="650">
 </p>
