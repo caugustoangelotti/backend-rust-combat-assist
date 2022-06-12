@@ -13,7 +13,8 @@ esse projeto, são os componentes eletricos, que vão desde portas lógicas
 e baterias, a alarmes inteligentes que se conectam ao app
 rust+, que tambem é desenvolvido pela Facepunch. Com o app rust+, conseguimos controlar alguns dispositivos
 dentro do jogo, com componentes como o smart switch, temos a possibilidade de abrir portas e ligar luzes remotamente
-utilizando o celular.
+utilizando o celular. Com a lib <a href="https://github.com/liamcottle/rustplus.js">RustPlus</a> e alguns componentes eletricos do game,
+conseguimos criar um mapa, que indica a presença de inimigos em tmepo real.
 </p>
 <p align="center">
 <img src="https://i.imgur.com/ZOI7B0Z.png" width="650">
