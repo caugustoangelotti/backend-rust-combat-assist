@@ -1,6 +1,6 @@
 <h1>Rust Combat Assist</h1>
 <p align="center">
-<img src="https://i.imgur.com/iE8eIjb.png" width="750">
+<img src="https://i.imgur.com/iE8eIjb.png" width="850">
 </p>
 <p>WebApp feito em Vue por - <a href="https://github.com/hota12">@Anton Archer</a></p>
 <h1>Descrição</h1>
@@ -15,4 +15,6 @@ rust+, que tambem é desenvolvido pela Facepunch. Com o app rust+, conseguimos c
 dentro do jogo, com componentes como o smart switch, temos a possibilidade de abrir portas e ligar luzes remotamente
 utilizando o celular.
 </p>
-![App Screenshot](https://i.imgur.com/ZOI7B0Z.png)
+<p align="center">
+<img src="https://i.imgur.com/ZOI7B0Z.png" width="850">
+</p>
