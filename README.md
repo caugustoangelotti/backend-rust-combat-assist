@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://i.imgur.com/iE8eIjb.png" width="750">
 </p>
-<p>WebApp feito em Vue por - <a href="https://github.com/hota12" target="_blank">@Anton Archer</a></p>
+<p>WebApp feito em Vue por - <a href="https://github.com/hota12">@Anton Archer</a></p>
 <h1>Descrição</h1>
 <p>
 Rust é um jogo de sobrevivência lançado em 2013 pela 
