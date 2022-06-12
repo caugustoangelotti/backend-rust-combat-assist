@@ -7,4 +7,6 @@ e pvp. Um dos elementos que chamaram a atenção e possibilitaram
 esse projeto, são os componentes eletricos, que vão desde portas lógicas
 e baterias, a alarmes inteligentes que se conectam ao app
 rust+, tambem desenvolvido pela Facepunch.
-
+<p align="center">
+  <img src="[https://i.imgur.com/SYg5BsV.png](https://forum.alkad.org/attachments/the_electric_anniversary_1-png.5110/)" width="450" alt="grafo sintatico">
+</p>
