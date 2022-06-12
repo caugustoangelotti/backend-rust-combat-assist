@@ -1,5 +1,7 @@
 ## Rust Combat Assist
-![App Screenshot](https://i.imgur.com/iE8eIjb.png)
+<p align="center">
+  <img src="https://i.imgur.com/iE8eIjb.png" width="650" alt="combat assist webapp">
+</p>
 WebApp feito em Vue por - [@Anton Archer](https://github.com/hota12)
 ## Descrição
 Rust é um jogo de sobrevivência lançado em 2013 pela 
