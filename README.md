@@ -8,5 +8,5 @@ esse projeto, são os componentes eletricos, que vão desde portas lógicas
 e baterias, a alarmes inteligentes que se conectam ao app
 rust+, tambem desenvolvido pela Facepunch.
 <p align="center">
-  <img src="https://forum.alkad.org/attachments/the_electric_anniversary_1-png.5110/" width="450" alt="componentes eletricos rust">
+  <img src="https://i.imgur.com/ZOI7B0Z.png" width="450" alt="componentes eletricos rust">
 </p>
