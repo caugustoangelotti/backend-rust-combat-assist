@@ -26,5 +26,6 @@ conseguimos criar um mapa que indica a presença de inimigos em tempo real.
 <p>
 As fotos acima monstram um modulo completo de um sensor, um modulo é composto por 4 turrets (responsáveis por patrulhar e identificar os inimigos),
 portas lógicas AND e OR(as portas AND são responsáveis de elevar a tensão do sinal recebido das turrets e as portas OR combinam
-os sinais das turrets e quando uma ou mais turrets identificam um alvo, o smart switch é ativado).
+os sinais das turrets e quando uma ou mais turrets identificam um alvo, o smart switch é ativado) e um smart switch que indica
+o estado do sensor, ficando ligado enquanto os inimigos permanecem na area de patrulha das turrets.
 </p>
