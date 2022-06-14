@@ -31,5 +31,8 @@ o estado do sensor, ficando ligado enquanto os inimigos permanecem na área de p
 </p>
 <h1>Funcionamento</h1>
 <p align="center">
-<img src="https://s8.gifyu.com/images/ezgif.com-gif-makerf371f7ba94762fc3.gif" width="850">
+<img src="https://s8.gifyu.com/images/ezgif.com-gif-maker82fd007dc4205e78.gif" width="850">
+</p>
+<p>
+ 
 </p>
